@@ -14,6 +14,9 @@ Argo Wellness Assistant analyzes user symptoms, provides actionable recommendati
 
 [![Backend](https://img.shields.io/badge/Live%20Backend-Render-blue?style=for-the-badge&logo=render)](https://argo-wellness-assistant.onrender.com).
 
+## 🎥 Video Demo
+
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1Esa68sgfuK6HKRWjpbECDJazymBn2mhu/view?usp=sharing)
 
 ## 🚀 **Features**
 
