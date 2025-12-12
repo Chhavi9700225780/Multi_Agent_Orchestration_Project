@@ -11,6 +11,10 @@ Argo Wellness Assistant analyzes user symptoms, provides actionable recommendati
 
 [![Frontend](https://img.shields.io/badge/Live%20Frontend-Vercel-brightgreen?style=for-the-badge&logo=vercel)](https://argo-wellness-assistant-buyx.vercel.app/).
 
+
+[![Backend](https://img.shields.io/badge/Live%20Backend-Render-blue?style=for-the-badge&logo=render)](https://argo-wellness-assistant.onrender.com).
+
+
 ## 🚀 **Features**
 
 ### 🧠 AI-Powered Multi-Agent System
