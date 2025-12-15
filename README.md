@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 **Argo Wellness Assistant – Multi-Agent-Orchestration-Project**
+# 📘 **Argoya Wellness Assistant – Multi-Agent-Orchestration-Project**
 
 Empowering students and working professionals with AI-driven wellness support.
 Argo Wellness Assistant analyzes user symptoms, provides actionable recommendations, and offers personalized guidance using a multi-agent architecture.
